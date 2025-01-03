@@ -1,19 +1,21 @@
-Hey, I am Rango (a.k.a. _@rangonomics_, _@wardn_). I am a Robotics Engineer by degree, but I consider myself a Software Engineer at the core and have not limited myself to Robotics and its transversal fields. I have deployed web apps for blockchain analytics, trading (don't use it) bots, investment analytics apps, web3 and many more projects.
+Hey, I am Junhui (a.k.a. @sirburger). I am a Cybersecurity Enthusiast by passion and a budding Security Engineer by training. While I specialize in cybersecurity, I am constantly exploring software engineering, web development, and data analytics to broaden my skill set and tackle multifaceted challenges.
 
-In the past, I have led the development of Serena's Autonomous Navigation (ROS2, C++) stack at [Coalescent Mobile Robotics](https://cm-robotics.com/), worked at [Hiventive](https://www.hiventive.com/en/) both as a Back-End Software Engineer (Go, PostgreSQL) and as a Embedded Software Engineer (C++, C).
+I have experience deploying secure web applications, integrating machine learning for log analysis, and working on end-to-end encrypted cloud storage solutions. I’m particularly interested in penetration testing, vulnerability management, and data loss prevention. Recently, I have been diving into blockchain technology and its potential applications in security.
 
-I have also been part of the Real Time Systems research team at [LS2N](https://ls2n.fr) for AI Planning, in which I have developed [pymapf](https://github.com/APLA-Toolbox/pymapf) (Multi-Agents Pathfinding Toolbox) and [pyddl](https://github.com/APLA-Toolbox/pythonpddl) (PDDL Parser/Planner).
+In the past, I contributed to multiple projects:
 
-I have interned at [Ingeniarius](https://ingeniarius.pt/), where I have worked on [STOP](http://stop.ingeniarius.pt/), [SAFE](http://safeforest.ingeniarius.pt/) and [SEMFIRE](http://semfire.ingeniarius.pt/).
+    Developed a cloud storage solution with QR-code-based client-side encryption as part of my ISPJ project.
+    Built an e-commerce platform for a thrift shop, emphasizing security and transaction integrity.
+    Participated in the CodeOverflow hackathon, creating a web platform promoting healthy eating and food waste reduction.
+    Created challenges and assisted in running cybersecurity events such as CTFs and workshops with the NYP Infosec Club.
 
-I completed my BSc. in Electronics from [Nantes Université](https://english.univ-nantes.fr/), followed by a Master's in Embedded Systems at [Bordeaux Ynov Campus](https://www.ynov.com/campus/bordeaux). I then transfered for a Control and Robotics Master's at [Ecole Centrale Nantes](https://www.ec-nantes.fr/english-version), a top 5 graduate school in the country.
+I’ve also achieved Top 15 in the YBN CTF and Top 8 in the Gryphon CTF with my team, demonstrating my aptitude for real-world cybersecurity challenges.
 
-I now started the process of learning Blockchain Technology as well as their web integrations with web3.
+I am pursuing my studies at Nanyang Polytechnic, specializing in Cybersecurity. As part of my journey, I’m actively preparing for my upcoming internship at Continental Automotive Singapore, where I will focus on cybersecurity testing.
+Projects
 
-##### Projects
+    SecureCloudApp · End-to-End Encrypted Cloud Storage with QR Code Key Sharing · 2024
+    E-Commerce Platform · Thrift Shop Solution with Secure Customer Transactions · 2024
+    Blockchain Explorer · Learning Blockchain Technology and Its Security Implications · 2025
 
-- [Trackdrop][1] · A Footprint Tracker on Ethereum's Rollups · 2023
-- [Python-Nexo][2] · A Python Wrapper for Nexo Pro's API · 2022
-
-[1]: https://trackdrop.xyz/
-[2]: https://github.com/guilyx/python-nexo
+Let’s connect and build secure solutions together!
