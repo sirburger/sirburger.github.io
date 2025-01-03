@@ -1,22 +1,22 @@
 # Site settings
-title: Rango's Blog
-SEOTitle: Rango Blog
+title: Junhui's Personal Website
+SEOTitle: Junhui Personal Website
 header-img: img/home-bg.jpg
-email: rangonomics@gmail.com
-description: "Rango's Blog Page | Learning, Lifestyle, Experiences"
-keyword: "Rango, Rango Blog, Github Pages, Web, JavaScript, React, React Native"
-url: "guilyx.github.com" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+email: 5ywqe1oo3@mozmail.com
+description: "Junhui's Own Personal Website | Learning, Lifestyle, Experiences"
+keyword: "Junhui, Personal Website, Github Pages, Web, Blogging"
+url: "https://sirburger.github.io" # Your GitHub Pages URL
+baseurl: "" # Leave blank for personal sites
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-github_username: guilyx
-twitter_username: rangonomics
+github_username: sirburger
+# twitter_username: sirburger
 #facebook_username:  huxpro
-#linkedin_username:  huxpro
+linkedin_username:  junhui-cyber
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -71,8 +71,8 @@ ga_domain: guilyx.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Rango <br> Swarm Team @ ATRC"
-sidebar-avatar: https://github.com/guilyx.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Welcome to my personal website! Here, I share my journey, projects, and experiences."
+sidebar-avatar: https://github.com/sirburger.png
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
