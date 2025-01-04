@@ -18,7 +18,7 @@ tags:
 
 Participating in the hackathon was an incredible journey for our team, **Group 15**, as we tackled the challenge of promoting healthy eating with technology. Here's a snapshot of all the participants and judges at the event:
 
-![Hackathon Participants and Judges](img\in-post\NYP-Code-Overflow-2023\6O4A5846.JPG)
+![Hackathon Participants and Judges](https://github.com/sirburger/sirburger.github.io/blob/1134e38e1f67e564344359233bd468931decaf13/img/in-post/NYP-Code-Overflow-2023/6O4A5846.JPG)
 
 It was inspiring to be surrounded by so many talented individuals!
 
@@ -32,7 +32,7 @@ Here's the amazing team behind **Healthy Foodie**:
 - **Junhui**: Database and System Architect
 - **BingRui**: Project Manager and Quality Assurance
 
-![Team Photo](img\in-post\NYP-Code-Overflow-2023\6O4A5343.JPG)
+![Team Photo](https://github.com/sirburger/sirburger.github.io/blob/1134e38e1f67e564344359233bd468931decaf13/img/in-post/NYP-Code-Overflow-2023/6O4A5343.JPG)
 
 Together, we brought our skills and creativity to the table to develop a functional and impactful website.
 
@@ -82,7 +82,7 @@ Obesity is linked to numerous health issues, including:
 
 Presenting our project was one of the most exciting moments. As a team, we explained how **Healthy Foodie** works, emphasizing its ability to make healthy eating more accessible.
 
-![Presenting on Stage](img\in-post\NYP-Code-Overflow-2023\6O4A5699.JPG)
+![Presenting on Stage](https://github.com/sirburger/sirburger.github.io/blob/1134e38e1f67e564344359233bd468931decaf13/img/in-post/NYP-Code-Overflow-2023/6O4A5699.JPG)
 
 Our live demonstration showcased features like recipe filtering, personalized recommendations, and user-friendly design.
 
@@ -92,7 +92,7 @@ Our live demonstration showcased features like recipe filtering, personalized re
 
 As the API integrator, I took charge of connecting our platform to the Spoonacular API, ensuring seamless access to dynamic recipe data. Here's a close-up of me presenting this key feature at the hackathon:
 
-![Close-Up at the Podium](img\in-post\NYP-Code-Overflow-2023\6O4A5710.JPG)
+![Close-Up at the Podium](https://github.com/sirburger/sirburger.github.io/blob/1134e38e1f67e564344359233bd468931decaf13/img/in-post/NYP-Code-Overflow-2023/6O4A5710.JPG)
 
 ### Key Contributions
 1. **API Integration**:
