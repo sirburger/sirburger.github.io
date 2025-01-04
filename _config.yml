@@ -66,8 +66,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "G-L60Z89VR35" # Format: UA-xxxxxx-xx
-ga_domain: guilyx.github.io
+# ga_track_id: "G-L60Z89VR35" # Format: UA-xxxxxx-xx
+# ga_domain: guilyx.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
