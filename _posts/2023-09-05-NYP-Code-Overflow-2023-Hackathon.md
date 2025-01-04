@@ -94,29 +94,65 @@ As the API integrator, I took charge of connecting our platform to the Spoonacul
 
 ![Close-Up at the Podium](/img/in-post/NYP-Code-Overflow-2023/6O4A5710.JPG)
 
-### Key Contributions
-1. **API Integration**:
-   - Researched the Spoonacular API documentation to identify useful endpoints.
-   - Developed Flask routes to handle API calls and parse JSON responses.
-   - Enabled filtering by calories, protein, dietary restrictions, and more.
+### API Integration Example
 
-2. **Data Parsing**:
-   - Extracted essential data like recipe names, images, ingredients, and nutritional values.
-   - Ensured a seamless user experience by displaying clean, structured results.
+Below is a simplified Flask route for fetching and filtering recipes from the Spoonacular API:
 
-3. **Error Handling**:
-   - Implemented mechanisms to manage API rate limits and invalid inputs.
-   - Displayed fallback recipes or error messages when API calls failed.
+```python
+@app.route('/display_recommendations', methods=['GET'])
+def display_recommendations():
+    params = {
+        'apiKey': SPOONACULAR_API_KEY,
+        'maxCalories': request.args.get('maxcalories'),
+        'minProtein': request.args.get('minprotein'),
+        'maxFat': request.args.get('maxfat'),
+        'excludeIngredients': request.args.get('allergies'),
+        'diet': request.args.get('preferredDiet'),
+        'number': 20,
+        'sort': 'healthiness',
+    }
+    response = requests.get('https://api.spoonacular.com/recipes/complexSearch', params=params)
+    if response.status_code == 200:
+        recipes = response.json().get('results', [])
+        return render_template('recommendations.html', datas=recipes)
+    return "Failed to fetch recipes."
+```
 
-4. **Caching**:
-   - Reduced repetitive API calls by caching popular recipes, improving performance and staying within API usage limits.
+---
 
-### Challenges
-- **Rate Limits**: Managing Spoonacular’s free-tier restrictions required optimizing API calls.
-- **Complex Data**: Parsing and structuring the API’s large JSON objects into usable data for the website.
-- **Custom Filtering**: Adapting API responses to support user-specific dietary needs and preferences.
+### Search Feature Example
 
-This role taught me the importance of handling complex JSON data, implementing efficient caching, and managing API rate limits.
+Users can search for recipes dynamically using the following JavaScript logic:
+
+```javascript
+function getRecipe(query) {
+    $.ajax({
+        url: `https://api.spoonacular.com/recipes/search?apiKey=YOUR_API_KEY&query=${query}`,
+        success: function(res) {
+            const recipe = res.results[0];
+            $("#output").html(`
+                <h1>${recipe.title}</h1>
+                <img src="${res.baseUri + recipe.image}" width="400" />
+                <p>Ready in ${recipe.readyInMinutes} minutes</p>
+            `);
+        },
+    });
+}
+```
+
+---
+
+### Database Example
+
+The database is managed with SQLAlchemy. Below is a model for storing recipe data:
+
+```python
+class Recipe(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    title = db.Column(db.String(255), nullable=False)
+```
+
+This structure ensures we can save and retrieve recipes efficiently.
 
 ---
 
@@ -125,3 +161,6 @@ This role taught me the importance of handling complex JSON data, implementing e
 We are immensely grateful to the organizers, judges, and fellow participants for making this hackathon a memorable and enriching experience.
 
 Being part of such a vibrant community of innovators and creators was truly inspiring. Thank you for supporting **Healthy Foodie**!
+```
+
+You can copy the entire content directly and use it in your blog. Let me know if you need any further adjustments!
