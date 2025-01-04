@@ -1,10 +1,10 @@
 # Site settings
-title: Junhui's Personal Website
-SEOTitle: Junhui Personal Website
+title: Junhui's Portfolio
+SEOTitle: Junhui Portfolio
 header-img: img/home-bg.jpg
 email: 5ywqe1oo3@mozmail.com
-description: "Junhui's Own Personal Website | Learning, Lifestyle, Experiences"
-keyword: "Junhui, Personal Website, Github Pages, Web, Blogging"
+description: "Junhui's Own Portfolio | Learning, Lifestyle, Experiences"
+keyword: "Junhui, Portfolio, Github Pages, Web, Blogging"
 url: "https://sirburger.github.io" # Your GitHub Pages URL
 baseurl: "" # Leave blank for personal sites
 
