@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Healthy Foodie: An All-in-One Healthy Recipe Website"
-subtitle: "NYP-Code-Overflow-2023-Hackathon"
+subtitle: "Our Adventure at the NYP-Code-Overflow-2023 Hackathon"
 author: "Junhui"
 header-style: text
 tags:
@@ -10,93 +10,109 @@ tags:
   - Hackathon
 ---
 
-> This post showcases our group project **Healthy Foodie**, a website designed to combat rising obesity by offering accessible, healthy meal recipes.
+> 🚀 **Healthy Foodie**: Tackling obesity, one recipe at a time!  
+> Join us as we dive into our journey of creating a website that makes healthy eating simple and accessible.
 
 ---
 
-## The Hackathon Experience
+## 🌟 The Hackathon Experience
 
-Participating in the hackathon was an incredible journey for our team, **Group 15**, as we tackled the challenge of promoting healthy eating with technology. Here's a snapshot of all the participants and judges at the event:
+Participating in the **NYP-Code-Overflow-2023 Hackathon** was an incredible adventure for our team, **Group 15**! We took on the challenge of promoting healthy eating through innovative technology.  
 
+📸 Here's a snapshot of all the participants and judges who made the event unforgettable:  
 ![Hackathon Participants and Judges](/img/in-post/NYP-Code-Overflow-2023/6O4A5846.JPG)
 
-It was inspiring to be surrounded by so many talented individuals!
+✨ Surrounded by so many talented and passionate individuals, we were inspired to push our limits and create something impactful!
 
 ---
 
-## Meet the Team
+## 💪 Meet the Team
 
-Here's the amazing team behind **Healthy Foodie**:
-- **Misriya**: API Integration and Backend Developer
-- **May**: UI/UX Designer and Frontend Developer
-- **Junhui**: Database and System Architect
-- **BingRui**: Project Manager and Quality Assurance
+Behind every great project is an amazing team! Here’s **Group 15**, the minds behind **Healthy Foodie**:  
+- **Misriya**: API Wizard 🪄 and Backend Guru  
+- **May**: Design Maestro 🎨 and Frontend Pro  
+- **Junhui**: Database Ninja 🥷 and System Architect  
+- **BingRui**: Project Leader 👑 and QA Perfectionist  
 
+📸 Check out our team photo:  
 ![Team Photo](/img/in-post/NYP-Code-Overflow-2023/6O4A5343.JPG)
 
-Together, we brought our skills and creativity to the table to develop a functional and impactful website.
+Together, we combined creativity, technical skills, and sheer determination to bring **Healthy Foodie** to life.
 
 ---
 
-## The Problem: Rising Obesity Rates
+## 🌍 The Problem: Rising Obesity Rates
 
-### Global and Local Statistics
-- **Singapore**: In 2020, **10.5% of adults were obese**, up from **8.6% in 2017**.
-- **Globally**: **13% of adults are obese**, and **39% are overweight** (2016 statistics).
+### 📊 Alarming Statistics
+- **Singapore**: In 2020, **10.5% of adults were obese**, up from **8.6% in 2017**.  
+- **Globally**: **13% of adults are obese**, and **39% are overweight** (2016 data).
 
-### Challenges of Healthy Eating
-1. **Convenience**: Processed foods are faster and easier to prepare.
-2. **Cost**: Healthy meals are often more expensive.
-3. **Effort**: Preparing nutritious meals from scratch can be tedious.
+### 🚧 Challenges of Healthy Eating
+1. **Convenience**: Processed foods are faster and easier.  
+2. **Cost**: Healthy meals are often more expensive.  
+3. **Effort**: Preparing healthy meals can be tedious.  
 
-### Health Consequences
-Obesity is linked to numerous health issues, including:
-- Diabetes
-- Hypertension
-- Heart Disease
-- High Cholesterol
+😢 These factors contribute to serious health issues, including diabetes, heart disease, and high cholesterol.
 
 ---
 
-## Our Solution: Healthy Foodie
+## 💡 Our Solution: Healthy Foodie
 
-**Healthy Foodie** is a website designed to make healthy cooking accessible, affordable, and simple. By providing a rich database of recipes, users can find nutritious meals tailored to their preferences and dietary requirements.
+🌟 **Healthy Foodie** is a website designed to make healthy cooking accessible, affordable, and fun! By providing a rich database of recipes, users can find nutritious meals tailored to their preferences and dietary requirements.
 
-### Key Features
-1. **Recipe Search**:
-   - Filter recipes by calories, protein, fats, allergies, and diets (e.g., vegan, keto).
-2. **Personalized Recommendations**:
-   - Input dietary needs and receive tailored recipe suggestions.
-3. **Simple Interface**:
-   - User-friendly design makes finding and preparing meals effortless.
+### 🌈 Key Features
+1. **✨ Recipe Search**:
+   - Filter recipes by calories, protein, fats, allergies, and diets (e.g., vegan, keto).  
+2. **🌟 Personalized Recommendations**:
+   - Input your dietary needs and get custom recipes just for you!  
+3. **💻 Simple Interface**:
+   - Designed with users in mind, making healthy eating effortless.
 
-### Technology Stack
-- **Flask**: Backend development.
-- **Spoonacular API**: Recipe and nutritional data.
-- **SQLAlchemy**: Database management.
-- **GitHub**: Collaboration and version control.
-
----
-
-## Demonstrating Healthy Foodie
-
-Presenting our project was one of the most exciting moments. As a team, we explained how **Healthy Foodie** works, emphasizing its ability to make healthy eating more accessible.
-
-![Presenting on Stage](/img/in-post/NYP-Code-Overflow-2023/6O4A5699.JPG)
-
-Our live demonstration showcased features like recipe filtering, personalized recommendations, and user-friendly design.
+### 🛠️ Technology Stack
+- **Flask**: The backbone of our backend.  
+- **Spoonacular API**: A treasure trove of recipes and nutritional data.  
+- **SQLAlchemy**: Seamless database management.  
+- **GitHub**: Collaboration made easy.
 
 ---
 
-## My Role: Integrating the Spoonacular API
+## 🎤 Demonstrating Healthy Foodie
 
-As the API integrator, I took charge of connecting our platform to the Spoonacular API, ensuring seamless access to dynamic recipe data. Here's a close-up of me presenting this key feature at the hackathon:
+One of the highlights of our hackathon experience was presenting **Healthy Foodie** to the judges and audience.  
 
+📸 Here's a moment from our live demo:  
+![Presenting on Stage](/img/in-post/NYP-Code-Overflow-2023/6O4A5699.JPG)  
+
+Our presentation showcased key features like recipe filtering, personalized recommendations, and the user-friendly design we’re so proud of.
+
+---
+
+## 🛠️ My Role: Integrating the Spoonacular API
+
+As the **API integrator**, my job was to connect our platform to the **Spoonacular API**. This allowed us to fetch dynamic recipe data and enable features like filtering by dietary preferences.  
+
+📸 Here I am presenting this key feature:  
 ![Close-Up at the Podium](/img/in-post/NYP-Code-Overflow-2023/6O4A5710.JPG)
 
-### API Integration Example
+### 🔑 Key Contributions
+1. **API Integration**:
+   - Researched Spoonacular API to identify endpoints.
+   - Built Flask routes to handle API calls and responses.
+   - Enabled filtering by calories, protein, dietary restrictions, and more.  
+2. **Data Parsing**:
+   - Extracted data like recipe names, images, and nutritional values.
+   - Ensured clean, structured results for a seamless user experience.  
+3. **Error Handling**:
+   - Managed API rate limits and handled invalid inputs gracefully.  
+4. **Caching**:
+   - Reduced repetitive API calls by caching popular recipes, improving performance.
 
-Below is a simplified Flask route for fetching and filtering recipes from the Spoonacular API:
+### 🤔 Challenges
+- **Rate Limits**: Balancing free-tier API restrictions with user demands.  
+- **Complex Data**: Parsing and structuring large JSON responses.  
+- **Custom Filtering**: Adapting API responses for user-specific dietary needs.  
+
+### 🖥️ API Integration Example
 
 ```python
 @app.route('/display_recommendations', methods=['GET'])
@@ -120,9 +136,9 @@ def display_recommendations():
 
 ---
 
-### Search Feature Example
+## 🔎 Search Feature Example
 
-Users can search for recipes dynamically using the following JavaScript logic:
+Our dynamic search feature allows users to easily find recipes:
 
 ```javascript
 function getRecipe(query) {
@@ -142,9 +158,9 @@ function getRecipe(query) {
 
 ---
 
-### Database Example
+## 📂 Database Example
 
-The database is managed with SQLAlchemy. Below is a model for storing recipe data:
+We used SQLAlchemy to manage our database. Here’s a simple model:
 
 ```python
 class Recipe(db.Model):
@@ -152,15 +168,12 @@ class Recipe(db.Model):
     title = db.Column(db.String(255), nullable=False)
 ```
 
-This structure ensures we can save and retrieve recipes efficiently.
+This structure ensured efficient storage and retrieval of recipe data.
 
 ---
 
-## Thank You!
+## ❤️ Thank You!
 
-We are immensely grateful to the organizers, judges, and fellow participants for making this hackathon a memorable and enriching experience.
+We are incredibly grateful to the organizers, judges, and fellow participants who made this hackathon such a fantastic experience.  
 
-Being part of such a vibrant community of innovators and creators was truly inspiring. Thank you for supporting **Healthy Foodie**!
-```
-
-You can copy the entire content directly and use it in your blog. Let me know if you need any further adjustments!
+💖 I hope that i get better in web dev in the future
