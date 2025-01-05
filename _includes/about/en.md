@@ -2,7 +2,21 @@
 
 Hey, I am Junhui (a.k.a. @sirburger). I am a **cybersecurity enthusiast** by passion and a budding **Security Engineer** by training. While I specialize in cybersecurity, I am constantly exploring other disciplines such as **AI-driven threat detection** and **automation security**. With hands-on experience in **penetration testing**, **secure application development**, and participating in **global Capture The Flag (CTF)** competitions, I continuously explore the evolving world of cybersecurity to refine my skills and methodologies. I am driven to understand the inner workings & human flaws of something to completely understand how to exploit it. 🔍💻
 
-![Download My Resume](img/Latest_Resume.pdf)
+### Download My Resume
+<a href="/img/Latest_Resume.pdf" download="Latest_Resume.pdf" style="text-decoration: none;">
+  <button style="
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor: pointer;
+  ">
+    Check out My Resume!
+  </button>
+</a>
+
 ---
 
 ## Memberships & Community Involvement
