@@ -1,70 +1,57 @@
-# About Me
+# About Me  
+Hi, I’m **Junhui** (a.k.a. @sirburger), a **cybersecurity enthusiast** passionate about **AI-driven threat detection** and **automation security**. With hands-on experience in **penetration testing**, **secure app development**, and **CTF competitions**, I thrive on exploring and mastering the evolving landscape of cybersecurity. I aim to understand and exploit the flaws in systems to improve them. 🔍💻  
 
-Hey, I am Junhui (a.k.a. @sirburger). I am a **cybersecurity enthusiast** by passion and a budding **Security Engineer** by training. While I specialize in cybersecurity, I am constantly exploring other disciplines such as **AI-driven threat detection** and **automation security**. With hands-on experience in **penetration testing**, **secure application development**, and participating in **global Capture The Flag (CTF)** competitions, I continuously explore the evolving world of cybersecurity to refine my skills and methodologies. I am driven to understand the inner workings & human flaws of something to completely understand how to exploit it. 🔍💻
+---
 
---
-
-## Memberships & Community Involvement
-
+## Memberships & Community Involvement  
 - **NYP InfoSecurity Club**:  
-  Active sub-committee member, contributing to various events and initiatives.  
-  - Served as the **Assistant-in-Charge (AIC)** for the **NYP Infosec December 2024 CTF**, overseeing challenge vetting, event management, and feedback collection.  
-  - Created CTF challenges for the **NYP June 2024 CTF** and **NYP December 2024 CTF**, while also managing system administration tasks.  
-  - Assisted during **NYP Open House 2024**, advising prospective students on the opportunities and experiences within the cybersecurity diploma program.  
-- **Singapore CTF Merger Team**:  
-  Represented as a player, collaborating with top talent in the local cybersecurity community to tackle complex challenges.  
-- **Association of Information Security Professionals (AiSP)**:  
-  Member, actively participating in community discussions and professional development activities.  
+  - **Assistant-in-Charge (AIC)**, **NYP Infosec Dec 2024 CTF**: Managed challenge vetting, event logistics, and feedback collection.  
+  - Created CTF challenges for **NYP June & Dec 2024** and handled system admin tasks.  
+  - Assisted at **NYP Open House 2024**, advising prospective students.  
+- **Singapore CTF Merger Team**: Represented NYP in local cybersecurity challenges.  
+- **Association of Information Security Professionals (AiSP)**: Active member in discussions and professional development.  
 
---
-## Certifications & Training
+---
 
-- **Certified Ethical Hacker (CEH)** – Acquired May 2024  
-- **Certified Hacking Forensic Investigator (CHFI)** – Acquired Oct 2023  
-- **Currently Pursuing:** eLearnSecurity Junior Penetration Tester (eJPT v2)  
-- **Future Goal:** 🙏 Certified Red Team Operator (CRTO), 💸 Certified Penetration Tester Specialist (CPTS)  
+## Certifications & Training  
+- **CEH** (Certified Ethical Hacker) – May 2024  
+- **CHFI** (Certified Hacking Forensic Investigator) – Oct 2023  
+- **Pursuing:** eLearnSecurity Junior Penetration Tester (eJPT v2)  
+- **Future Goals:** 🙏 CRTO | 💸 CPTS  
 
-- **WorldSkills Cybersecurity Training**:  
-  Explored topics such as malware analysis, SIEM analysis, web vulnerability exploitation, and a week-long intensive session on physical network configuration and securing.  
+**WorldSkills Cybersecurity Training**: Topics include malware analysis, SIEM, web vulnerabilities, and physical network security.  
 
---
-## Ongoing Development & Hands-On Experience
+---
 
-- **Hack The Box**: Practicing penetration testing methodologies and exploring diverse attack vectors to strengthen defensive strategies.  
-- **CryptoHack**: Enhancing mathematical proficiency to identify and exploit misconfigurations in cryptographic systems.  
-- **Physical Network Setup**: Configured and attacked a physical network to simulate real-world defense and offense scenarios.  
+## Ongoing Development  
+- **Hack The Box**: Refining penetration testing techniques.  
+- **CryptoHack**: Mastering cryptographic concepts and exploitation.  
+- **Physical Network Labs**: Simulating real-world scenarios for attack/defense strategies.  
 
---
-## Cybersecurity Projects & Blog Highlights
+---
 
-I enjoy writing about my projects and sharing insights through my blog. Some of my key works include:
+## Cybersecurity Projects & Blog Highlights  
+- **Healthy Food Recommendation Website**: Promoting healthy eating and reducing food waste. 🍎  
+- **App Development & Security Projects**: Showcasing development processes and vulnerability mitigation. 📱🔒  
+- **CTF Writeups**: Sharing strategies for solving complex challenges. 🧩  
+Read more: [Link to your blog or portfolio]  
 
-- **Healthy Food Recommendation Website**: A beginner project focused on promoting healthy eating and reducing food waste. 🍎  
-- **App Development Project**: A comprehensive showcase of my development journey, highlighting the technical challenges and solutions. 📱  
-- **App Security Project**: Detailed exploration of securing application vulnerabilities. 🔒  
-- **CTF Writeups**: A collection of my step-by-step solutions to CTF challenges, sharing strategies and methodologies with the cybersecurity community. 🧩  
+---
 
-Do give it a read if you're curious! 🤔 [Link to your blog or portfolio]
+## CTF Achievements  
+- **YBN 2024 CTF**: Top 15 🏆  
+- **GCTF 2024**: Top 8 🥈  
+- **Spooky CTF 2024**: Top 35 👻  
 
---
-## Capture The Flag (CTF) Participation
+---
 
-- **YBN 2024 CTF**: Top 15 placement 🏆  
-- **GCTF 2024**: Top 8 placement 🥈  
-- **Spooky CTF 2024**: Top 35 placement 👻  
+## Volunteer Experience  
+- **SICW 2024**: Presented **ACUBE**, an AI-powered malware analysis tool, engaging with over 100 professionals and students.  
+- **Toa Payoh Seu Teck Sean Tong** (Jan 2024 – Present): Assisting underprivileged senior residents with cleaning and essential supply distribution.  
 
---
-## Volunteer Experience
+---
 
-- **Singapore International Cyber Week (SICW) 2024**:  
-  Presented **ACUBE**, an AI-powered malware analysis tool, at my first cybersecurity convention. Engaged with over 100 professionals and students, sharing insights and learning about the latest industry trends.  
-
-- **Toa Payoh Seu Teck Sean Tong** (Jan 2024 – Present):  
-  Conducted welfare visits to underprivileged senior residents, assisting with spring-cleaning and distributing essential supplies. 🧹🛍️  
-
---
-## Goals & Aspirations
-
-- Specializing in **AI-driven threat detection** to anticipate and neutralize emerging cyber threats effectively. 🤖  
-- Advancing in **automation security** to streamline and reinforce security processes across diverse systems. ⚙️  
-- Building expertise in **penetration testing** by continuously refining my methodologies through practical challenges and real-world simulations. 💼  
+## Goals  
+- Specializing in **AI-driven threat detection** to anticipate and neutralize emerging cyber threats. 🤖  
+- Advancing in **automation security** to streamline processes. ⚙️  
+- Mastering **penetration testing** through challenges and real-world simulations. 💼  
