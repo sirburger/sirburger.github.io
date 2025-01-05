@@ -1,9 +1,7 @@
 # About Me
 
 Hey, I am Junhui (a.k.a. @sirburger). I am a **cybersecurity enthusiast** by passion and a budding **Security Engineer** by training. While I specialize in cybersecurity, I am constantly exploring other disciplines such as **AI-driven threat detection** and **automation security**. With hands-on experience in **penetration testing**, **secure application development**, and participating in **global Capture The Flag (CTF)** competitions, I continuously explore the evolving world of cybersecurity to refine my skills and methodologies. I am driven to understand the inner workings & human flaws of something to completely understand how to exploit it. 🔍💻
-
 ---
-
 ## Memberships & Community Involvement
 
 - **NYP InfoSecurity Club**:  
@@ -17,7 +15,6 @@ Hey, I am Junhui (a.k.a. @sirburger). I am a **cybersecurity enthusiast** by pas
   Member, actively participating in community discussions and professional development activities.  
 
 ---
-
 ## Certifications & Training
 
 - **Certified Ethical Hacker (CEH)** – Acquired May 2024  
@@ -29,7 +26,6 @@ Hey, I am Junhui (a.k.a. @sirburger). I am a **cybersecurity enthusiast** by pas
   Explored topics such as malware analysis, SIEM analysis, web vulnerability exploitation, and a week-long intensive session on physical network configuration and securing.  
 
 ---
-
 ## Ongoing Development & Hands-On Experience
 
 - **Hack The Box**: Practicing penetration testing methodologies and exploring diverse attack vectors to strengthen defensive strategies.  
@@ -37,7 +33,6 @@ Hey, I am Junhui (a.k.a. @sirburger). I am a **cybersecurity enthusiast** by pas
 - **Physical Network Setup**: Configured and attacked a physical network to simulate real-world defense and offense scenarios.  
 
 ---
-
 ## Cybersecurity Projects & Blog Highlights
 
 I enjoy writing about my projects and sharing insights through my blog. Some of my key works include:
@@ -50,7 +45,6 @@ I enjoy writing about my projects and sharing insights through my blog. Some of 
 Do give it a read if you're curious! 🤔 [Link to your blog or portfolio]
 
 ---
-
 ## Capture The Flag (CTF) Participation
 
 - **YBN 2024 CTF**: Top 15 placement 🏆  
@@ -58,7 +52,6 @@ Do give it a read if you're curious! 🤔 [Link to your blog or portfolio]
 - **Spooky CTF 2024**: Top 35 placement 👻  
 
 ---
-
 ## Volunteer Experience
 
 - **Singapore International Cyber Week (SICW) 2024**:  
@@ -68,7 +61,6 @@ Do give it a read if you're curious! 🤔 [Link to your blog or portfolio]
   Conducted welfare visits to underprivileged senior residents, assisting with spring-cleaning and distributing essential supplies. 🧹🛍️  
 
 ---
-
 ## Goals & Aspirations
 
 - Specializing in **AI-driven threat detection** to anticipate and neutralize emerging cyber threats effectively. 🤖  
