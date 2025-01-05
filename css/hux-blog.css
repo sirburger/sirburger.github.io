@@ -10,7 +10,7 @@
   }
 }
 .sidebar-container {
-  color: #bfbfbf;
+  color: #a8a8a8;
   font-size: 14px;
 }
 .sidebar-container h5 {
@@ -22,14 +22,14 @@
   text-decoration: none;
 }
 .sidebar-container a {
-  color: #bfbfbf !important;
+  color: #a8a8a8 !important;
 }
 .sidebar-container a:hover,
 .sidebar-container a:active {
   color: #0085a1 !important;
 }
 .sidebar-container .tags a {
-  border-color: #bfbfbf;
+  border-color: #a8a8a8;
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
