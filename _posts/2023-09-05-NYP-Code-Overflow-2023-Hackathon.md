@@ -5,6 +5,9 @@ subtitle: "Our Adventure at the NYP-Code-Overflow-2023 Hackathon"
 author: "Junhui"
 header-style: text
 tags:
+  - Python
+  - Flask
+  - SQL
   - Web Development
   - Health
   - Sustainability
