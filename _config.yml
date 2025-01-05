@@ -88,5 +88,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Resume Download Here", href: "/img/Junhui_Resume.pdf"},
+    { title: "[ *Resume Download Here* ]", href: "/img/Junhui_Resume.pdf"},
+    { title: "Email Me Here", href: "mailto:zhuojunhui5@gmail.com"}
   ]

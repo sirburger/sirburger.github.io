@@ -22,11 +22,15 @@ tags:
 
 ## 🌟 The Project: App Security at Its Core  
 
-**MaisonPrincess** is a hybrid thrift marketplace where users can buy and sell second-hand clothing. This project was part of my **Application Security assignment**, where I implemented measures to secure the platform against the **OWASP Top 10** vulnerabilities.
+**MaisonPrincess** is a hybrid thrift marketplace where users can buy and sell second-hand clothing. This project was part of my **Application Security assignment**, where I implemented measures to secure the platform against the **OWASP Top 10 vulnerabilities**.  
 
-The challenge:  
+### Home Page  
+Here's a sneak peek at the MaisonPrincess home page:  
+![Home Page of MaisonPrincess](/img/in-post/Appsec/home.png)
+
+### The Challenge:  
 1. Build a functional platform that supports thrifting.  
-2. Secure it against the **OWASP Top 10 vulnerabilities** using industry best practices.  
+2. Secure it against the **OWASP Top 10 vulnerabilities** using industry best practices.
 
 ---
 
@@ -46,7 +50,7 @@ The challenge:
 
 ## 🔒 Security Features  
 
-To align with the **OWASP Top 10**, I implemented a range of features, from **Role-Based Access Control (RBAC)** to a **secure logging system**.
+To align with the **OWASP Top 10**, I implemented a range of features, from **Role-Based Access Control (RBAC)** to a **secure logging system**.  
 
 ---
 
@@ -86,10 +90,7 @@ def require_role(*roles):
 
 **OWASP Threat Addressed:**  
 - **A03 - Injection**  
-Improperly handled inputs could lead to SQL injection or other attacks.  
-
-- **A07 - Broken Access Control**  
-Attackers might misuse tokens to access payment endpoints.
+- **A07 - Broken Access Control**
 
 **Mitigation:**  
 - Used **JWT tokens** to authenticate Stripe API requests.  
@@ -128,10 +129,20 @@ def create_payment():
 
 Logging is critical for monitoring, threat detection, and incident response. The logging system in MaisonPrincess aligns with **OWASP A09 - Security Logging and Monitoring Failures**.
 
+#### Log Dashboard  
+Logs are displayed in an intuitive dashboard for monitoring and analysis:  
+![Log Dashboard](/img/in-post/Appsec/log_dashboard.png)
+
 #### Key Features  
 
-1. **Structured Logging**  
-Logs are stored in **JSONL format** to make them easy to analyze.  
+| **Feature**                  | **Description**                                                                                       |
+|------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Structured Logging**        | Logs stored in **JSONL format** for easier parsing and analysis.                                     |
+| **Log Integrity Verification**| Ensures each log references the hash of the previous log, forming a secure chain.                   |
+| **Detailed Log Context**      | Logs include IP address, username, HTTP request paths, and socket information.                     |
+| **Anomaly Detection**         | Flags SQL injection and path traversal attempts.                                                   |
+| **Distributed Log Storage**   | Sends logs to an off-site storage (e.g., Loggly) for redundancy.                                   |
+| **Log Retention Policy**      | Archives logs exceeding **50MB** into ZIP files for storage efficiency.                             |
 
 **Example Log Entry:**  
 ```json
@@ -160,63 +171,20 @@ Logs are stored in **JSONL format** to make them easy to analyze.
 }
 ```
 
-2. **Log Integrity Verification**  
-Each log entry references the previous log’s hash, ensuring tamper-proof records.  
-
-**Code Snippet:**  
-```python
-def compute_hash(log_entry):
-    log_entry_str = json.dumps(log_entry, sort_keys=True, default=str)
-    return hashlib.sha256(log_entry_str.encode('utf-8')).hexdigest()
-```
-
-3. **Anomaly Detection**  
-Detects path traversal (`../../etc/passwd`) and SQL injection (`' OR '1'='1`) attempts.  
-
-**Code Snippet:**  
-```python
-def detect_sql_injection(log_entry):
-    query = log_entry['extra'].get('action', '')
-    if re.search(r'\b(union|select|insert|update|delete|drop|truncate)\b', query, re.IGNORECASE):
-        return True
-    return False
-```
+#### Log Configuration Table  
+![Log Configuration Table](/img/in-post/Appsec/Untitled-2024-07-19-2058.svg)
 
 ---
 
-### 4. Distributed Log Storage  
+### 4. Warning Management Panel  
 
-**OWASP Threat Addressed:**  
-- **A09 - Security Logging and Monitoring Failures**  
-Local logs could be deleted during an attack.  
+The **Warning Management Panel** enables admins to monitor and ban suspicious users.  
 
-**Mitigation:**  
-- Sent logs to an **off-site location** (e.g., Loggly) for redundancy.  
+#### Key Features:  
+- Users with repeated violations are flagged and banned.  
+- Bans can be managed by the admin in real-time.
 
-**Code Snippet:**  
-```python
-requests.post(LOGGLY_ENDPOINT, json=log_entry)
-```
-
----
-
-### 5. Log Retention Policy  
-
-**Threat Addressed:**  
-- **A09 - Security Logging and Monitoring Failures**  
-Attackers might overwhelm the logging system to trigger log deletions.  
-
-**Mitigation:**  
-- Compressed logs exceeding **50MB** into ZIP files for archival purposes.  
-
-**Code Snippet:**  
-```python
-def zip_log_file(file_path):
-    with zipfile.ZipFile(file_path + ".zip", 'w') as zipf:
-        zipf.write(file_path)
-    clear_log_file(file_path)
-```
-
+![Warning Management Panel](/img/in-post/Appsec/Warning_dahboard.png)
 ---
 
 ## 🎤 Demonstration  
@@ -234,4 +202,4 @@ MaisonPrincess exemplifies how to merge **functionality**, **sustainability**, a
 
 If you have any questions or feedback, feel free to reach out. Let’s continue building secure applications together!
 
---- 
+---
