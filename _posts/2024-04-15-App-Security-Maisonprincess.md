@@ -13,6 +13,7 @@ tags:
   - E-commerce
   - App Security
   - Sustainability
+  - Cybersecurity
 ---
 
 > 🛡️ **MaisonPrincess**: A sustainable thrifting platform fortified with robust security measures.  
