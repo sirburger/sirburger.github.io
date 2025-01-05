@@ -15,7 +15,7 @@ tags:
   - Sustainability
 ---
 
-> 🚀 **Beyond Earth**: Secure payments and AI-driven engagement!  
+> 🌏 **Beyond Earth**: Secure payments and AI-driven engagement!  
 > Explore how we enhanced the e-commerce experience through cutting-edge payment solutions and intelligent chatbots.
 
 ---

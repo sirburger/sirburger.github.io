@@ -17,7 +17,7 @@ Hi, I’m **Junhui** (a.k.a. @sirburger), a **cybersecurity enthusiast** passion
 - **CEH** (Certified Ethical Hacker) – May 2024  
 - **CHFI** (Certified Hacking Forensic Investigator) – Oct 2023  
 - **Pursuing:** eLearnSecurity Junior Penetration Tester (eJPT v2)  
-- **Future Goals:** 🙏 CRTO | 💸 CPTS  
+- **Future Goals:** 🙏 CRTO -> 💸 CPTS  
 
 **WorldSkills Cybersecurity Training**: Topics include malware analysis, SIEM, web vulnerabilities, and physical network security.  
 

@@ -15,7 +15,7 @@ tags:
   - Problem Solving
 ---
 
-> 🚀 **YBN 2024 CTF**: Diving into cryptography, security, and a whole lot of fun!  
+> 🦸 **YBN 2024 CTF**: Diving into cryptography, security, and a whole lot of fun!  
 > Join me as I walk you through my journey tackling the Hero challenges.
 
 ---

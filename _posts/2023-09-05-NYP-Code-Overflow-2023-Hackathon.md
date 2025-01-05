@@ -14,7 +14,7 @@ tags:
   - Hackathon
 ---
 
-> 🚀 **Healthy Foodie**: Tackling obesity, one recipe at a time!  
+> 🍀 **Healthy Foodie**: Tackling obesity, one recipe at a time!  
 > Join us as we dive into our journey of creating a website that makes healthy eating simple and accessible.
 
 ---
