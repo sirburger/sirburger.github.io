@@ -88,5 +88,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Open PR to be featured!", href: "https://github.com/guilyx/guilyx.github.io/pulls" },
+    { title: "Feel Free to Checkout My Resume!", href: "/img/Junhui_Resume.pdf", download: "Junhui_Resume.pdf" },
   ]
