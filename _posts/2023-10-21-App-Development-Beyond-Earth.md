@@ -212,3 +212,5 @@ class ChatBot:
 ## Reflection ✨
 
 The **Beyond Earth** project was a rewarding journey that challenged me to blend secure backend solutions with engaging frontend innovations. This experience sharpened my technical expertise and reaffirmed my passion for creating impactful, user-centric applications.
+
+---
