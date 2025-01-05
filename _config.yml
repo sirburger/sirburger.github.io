@@ -85,8 +85,8 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-Resume:
+# Resume
+friends:
   [
-    { title: "[Resume Download]!", href: "/img/Junhui_Resume.pdf", download: "Junhui_Resume.pdf" },
+    { title: "Resume Download Here", href: "/img/Junhui_Resume.pdf", download: "Junhui_Resume.pdf" },
   ]
